@@ -1,4 +1,3 @@
-import 'package:finance_app/data/listdata.dart';
 import 'package:finance_app/data/top.dart';
 import 'package:finance_app/screen/widget/chart_statistics.dart';
 import 'package:flutter/material.dart';
